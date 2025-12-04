@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hanxiao 👋
 
-<!--
-**hanxiao7/hanxiao7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in Credit Risk and Data Analytics in the financial industry, specializing in:
+- Credit underwriting strategy and line assignment
+- Data analysis and performance evaluation
+- Cross-functional implementation with Engineering, Modeling, and vendors
+- Testing and validating production changes across UI, scoring, and data pipelines
 
-Here are some ideas to get you started:
+Most of my work is proprietary, so this GitHub highlights personal projects created for experimentation and learning. 
+These use different technologies than my day-to-day credit-risk work (which focuses on SQL and Python).  
+Tasket77, for example, is an exploratory personal project built to solve a workflow challenge I encountered in my day-to-day work, using AI copilots to accelerate the development process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+**Tasket77** – A lightweight task management tool designed to reduce workflow friction.  
+Built with JavaScript as a learning and productivity experiment.
+
+🔗 Repository: https://github.com/hanxiao7/Tasket77
+
+Thanks for visiting!
