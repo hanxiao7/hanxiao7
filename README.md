@@ -11,10 +11,10 @@ Most of my work is proprietary, so this GitHub highlights personal projects crea
 These use different technologies than my day-to-day credit-risk work (which focuses on SQL and Python).  
 Tasket77, for example, is an exploratory personal project built to solve a workflow challenge I encountered in my day-to-day work, using AI copilots to accelerate the development process.
 
-## 📌 Featured Project
+## Featured Project
 **Tasket77** – A lightweight task management tool designed to reduce workflow friction.  
 Built with JavaScript as a learning and productivity experiment.
 
-🔗 Repository: https://github.com/hanxiao7/Tasket77
+📌 Repository: https://github.com/hanxiao7/Tasket77
 
 Thanks for visiting!
